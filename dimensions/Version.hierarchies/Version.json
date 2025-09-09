@@ -4,11 +4,43 @@
 	"Elements":
 	[
 		{
-			"Name":"Actual",
+			"Name":"Version 1",
 			"Type":"Numeric"
 		},
 		{
-			"Name":"Budget",
+			"Name":"Version 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Variance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Variance%",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Explanation",
+			"Type":"String"
+		},
+		{
+			"Name":"Performance Variance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ccy Exchange Variance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Dashboard",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DashboardCA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actual",
 			"Type":"Numeric"
 		},
 		{
@@ -16,47 +48,56 @@
 			"Type":"Numeric"
 		},
 		{
-			"Name":"Forecast_High",
+			"Name":"Target",
 			"Type":"Numeric"
 		},
 		{
-			"Name":"Forecast_Low",
+			"Name":"Prior Year Actual",
 			"Type":"Numeric"
 		},
 		{
-			"Name":"Variance %",
-			"Type":"Consolidated"
+			"Name":"Target vs Prior Year Actual",
+			"Type":"Numeric"
 		},
 		{
-			"Name":"Variance",
-			"Type":"Consolidated"
-		}
-	],
-	"Edges":
-	[
-		{
-			"ParentName":"Variance %",
-			"ComponentName":"Actual",
-			"Weight":1
+			"Name":"Target vs Prior Year Actual %",
+			"Type":"Numeric"
 		},
 		{
-			"ParentName":"Variance %",
-			"ComponentName":"Budget",
-			"Weight":1
+			"Name":"Rate Variance",
+			"Type":"Numeric"
 		},
 		{
-			"ParentName":"Variance",
-			"ComponentName":"Actual",
-			"Weight":1
+			"Name":"Volume Variance",
+			"Type":"Numeric"
 		},
 		{
-			"ParentName":"Variance",
-			"ComponentName":"Budget",
-			"Weight":-1
+			"Name":"Zero",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Predictive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Predictivev2",
+			"Type":"Numeric"
 		}
 	],
 	"Subsets@Code.links":
 	[
-		"Version.subsets/Forecast.json"
+		"Version.subsets/__BACKUP_All Members.json",
+		"Version.subsets/__BACKUP_Analysis.json",
+		"Version.subsets/__BACKUP_Current.json",
+		"Version.subsets/__BACKUP_Default.json",
+		"Version.subsets/All Members.json",
+		"Version.subsets/All Members No Alias.json",
+		"Version.subsets/Analysis.json",
+		"Version.subsets/Budget Target.json",
+		"Version.subsets/Current.json",
+		"Version.subsets/Default.json",
+		"Version.subsets/Predictive.json",
+		"Version.subsets/zCopyFrom.json",
+		"Version.subsets/zExportToSPSS.json"
 	]
 }
