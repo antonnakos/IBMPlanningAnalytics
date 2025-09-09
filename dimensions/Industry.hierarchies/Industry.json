@@ -1,0 +1,73 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Industry",
+	"ElementsSortType":"ByName",
+	"Elements":
+	[
+		{
+			"Name":"Any",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Automotive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Banking",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Consumer Products",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Education",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Energy",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Federal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Government",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Healthcare",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Industrial",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Insurance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Media and Entertainment",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Retail",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Telecommunications",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Travel and Transportation",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Industry.subsets/All_Industry.json",
+		"Industry.subsets/All Members.json"
+	]
+}

@@ -1,0 +1,301 @@
+{
+	"@type":"Hierarchy",
+	"Name":"DemoName",
+	"ElementsSortType":"ByName",
+	"Elements":
+	[
+		{
+			"Name":"Banking One",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capital Expenditure Planning",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capital Project Planning",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CarSales",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Casino Planning",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CDM_FSS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CDM_ROW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cognos Command Center Demo",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Customer Profitability Analytics",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Custom Workflow",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D2G (Digital to GO)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Energy and Utilities",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Energy One",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Examples",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Expense planning",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Expense Planning and Control",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FCI FAP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Federal One",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Future Chips Plan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GO_Scorecards",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Government One",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Healthcare Provider Blueprint",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Healthcare Solution",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Higher Education",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hospital Scorecarding",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hotel Planning",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR Attrition",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Industrial One",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Insurance One",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Insurance Planning",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Insurance Vision",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Integrated Financials",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Loan - Equal Repayments",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Loans - Equal Capital Repayments",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Margin Planning",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MBI Demo",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Media and Entertainment One",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Modeling and Visualization Workshop",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NASA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ONE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Operations Planning",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PA -101",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PAW Modeling",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Planning Analytics Trial",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PM_Experience",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Product Profitability",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Profitability Analysis",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Project Forecasting",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Promotion Planning",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Quota Management",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Retail-101",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Retail-101_Completed",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Retail Assortment Management",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Retail One",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Retail Store Operations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rolling Forecast",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"S&OP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Planning",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Planning and Forecasting",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales WML Forecast",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SData2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Showcase PAW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Smartco",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stores",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strategic Finance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SupplyChain",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Telco",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Timesheet and Activity Analysis",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TM1 10.2 Workshop",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Vision BikeShare",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Workforce Planning",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Workforce Scheduling Optimization",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"DemoName.subsets/All_DemoName.json",
+		"DemoName.subsets/All Members.json"
+	]
+}

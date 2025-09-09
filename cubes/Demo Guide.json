@@ -1,0 +1,26 @@
+{
+	"@type":"Cube",
+	"Name":"Demo Guide",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Industry')"
+		},
+		{
+			"@id":"Dimensions('DemoName')"
+		},
+		{
+			"@id":"Dimensions('TM1ServerName')"
+		},
+		{
+			"@id":"Dimensions('Hierarchies')"
+		},
+		{
+			"@id":"Dimensions('PAW')"
+		},
+		{
+			"@id":"Dimensions('DemoGuide.measures')"
+		}
+	],
+	"Views@Code.links":[]
+}

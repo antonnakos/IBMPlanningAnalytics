@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"PAW",
+	"ElementsSortType":"ByName",
+	"Elements":
+	[
+		{
+			"Name":"no",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"yes",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"PAW.subsets/All Members.json"
+	]
+}

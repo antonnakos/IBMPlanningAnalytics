@@ -1,0 +1,31 @@
+{
+	"@type":"Hierarchy",
+	"Name":"DemoGuide.measures",
+	"Elements":
+	[
+		{
+			"Name":"TM1Folder",
+			"Type":"String"
+		},
+		{
+			"Name":"PAWFolder",
+			"Type":"String"
+		},
+		{
+			"Name":"Comments",
+			"Type":"String"
+		},
+		{
+			"Name":"Owner",
+			"Type":"String"
+		},
+		{
+			"Name":"Count",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"DemoGuide.measures.subsets/All Members.json"
+	]
+}

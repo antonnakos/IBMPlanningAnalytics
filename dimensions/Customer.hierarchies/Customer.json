@@ -1,0 +1,48 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Customer",
+	"Elements":
+	[
+		{
+			"Name":"ГАЛУС 2004 ЕООД",
+			"Type":"String"
+		},
+		{
+			"Name":"АЛИАНС-АГРИКОЛ-АЛАГ - ООД",
+			"Type":"String"
+		},
+		{
+			"Name":"БРЕЗОВО АД",
+			"Type":"String"
+		},
+		{
+			"Name":"КОМПАС EООД",
+			"Type":"String"
+		},
+		{
+			"Name":"ХЕРОН ТРЕЙД ООД",
+			"Type":"String"
+		},
+		{
+			"Name":"КОЛОР ФУУДС ЕООД",
+			"Type":"String"
+		},
+		{
+			"Name":"БУЛЧИКЪН АД",
+			"Type":"String"
+		},
+		{
+			"Name":"ДИАВЕНА ООД",
+			"Type":"String"
+		},
+		{
+			"Name":"ЕЛИТ МЕС МИНЕВ-РОДОПА В.Т ЕООД",
+			"Type":"String"
+		},
+		{
+			"Name":"БОРИМЕС ООД",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

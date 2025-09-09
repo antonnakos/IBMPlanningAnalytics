@@ -1,50 +1,54 @@
 {
 	"@type":"Hierarchy",
-	"Name":"Product",
+	"Name":"Month",
 	"Elements":
 	[
 		{
-			"Name":"T073KAG058NEXXX",
+			"Name":"Jan",
 			"Type":"String"
 		},
 		{
-			"Name":"T153KAG092NNXXX",
+			"Name":"Feb",
 			"Type":"String"
 		},
 		{
-			"Name":"T073KAG260NNXXX",
+			"Name":"Mar",
 			"Type":"String"
 		},
 		{
-			"Name":"T153KAB246NNXXX",
+			"Name":"Apr",
 			"Type":"String"
 		},
 		{
-			"Name":"T153KAG246NNXXX",
+			"Name":"May",
 			"Type":"String"
 		},
 		{
-			"Name":"T099KAB048NZXX1",
+			"Name":"Jun",
 			"Type":"String"
 		},
 		{
-			"Name":"T099KAG048NZTFS",
+			"Name":"Jul",
 			"Type":"String"
 		},
 		{
-			"Name":"T099KAG058NZXXX",
+			"Name":"Aug",
 			"Type":"String"
 		},
 		{
-			"Name":"T099KAB063NZXXX",
+			"Name":"Sep",
 			"Type":"String"
 		},
 		{
-			"Name":"T081HAB0215ZEXF",
+			"Name":"Oct",
 			"Type":"String"
 		},
 		{
-			"Name":"T060SAB026ZXXXX",
+			"Name":"Nov",
+			"Type":"String"
+		},
+		{
+			"Name":"Dec",
 			"Type":"String"
 		}
 	],

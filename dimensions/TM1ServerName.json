@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"TM1ServerName",
+	"Hierarchies@Code.links":
+	[
+		"TM1ServerName.hierarchies/TM1ServerName.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('TM1ServerName')/Hierarchies('TM1ServerName')"
+	}
+}

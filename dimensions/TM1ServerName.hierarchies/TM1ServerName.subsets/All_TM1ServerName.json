@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"All_TM1ServerName",
+	"Expression":"{TM1SORT( {TM1FILTERBYLEVEL( {TM1SUBSETALL( [TM1ServerName] )}, 0)}, ASC)}"
+}
